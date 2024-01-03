@@ -1,5 +1,6 @@
 # **Global Renewable Energy Grid Management System**
-![DALL·E 2024-01-03 17 47 30 - A futuristic, high-tech control room for a global renewable energy grid management system  The room is filled with large, interactive touch screens di (1)](https://github.com/ViswanathRajuIndukuri/Global-Renewable-Energy-Grid-Management-System/assets/144731305/cf442a93-73d4-4571-b471-c767d91c3528)
+![DALL·E 2024-01-03 17 47 30 - A futuristic, high-tech control room for a global renewable energy grid management system  The room is filled with large, interactive touch screens di (2)](https://github.com/ViswanathRajuIndukuri/Global-Renewable-Energy-Grid-Management-System/assets/144731305/9c7e4577-0586-49fa-b405-7dd1d10cd786)
+
 
 
 # **Abstract**
