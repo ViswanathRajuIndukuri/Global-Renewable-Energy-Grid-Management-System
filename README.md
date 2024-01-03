@@ -1,4 +1,5 @@
 # **Global Renewable Energy Grid Management System**
+![image](https://github.com/ViswanathRajuIndukuri/Global-Renewable-Energy-Grid-Management-System/assets/144731305/b7b693c8-0899-4ae1-b3e6-630505a8e06c)
 
 # **Abstract**
 
